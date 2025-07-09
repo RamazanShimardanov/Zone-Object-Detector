@@ -1,4 +1,4 @@
-# Система видеонаналитики с YOLOv5
+# Система видео детекции с YOLOv5
 
 ![Demo Screenshot](Screenshot_2.png)
 
