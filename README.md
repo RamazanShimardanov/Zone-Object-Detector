@@ -39,10 +39,11 @@
 git clone https://github.com/yourusername/video-analytics.git
 cd video-analytics
 pip install -r requirements.txt
-
+```
 ### Запуск
+```bash
 python main.py
-
+```
 ##Поддерживаемые модели YOLO
   -YOLOv5s (по умолчанию)
   -YOLOv5m
