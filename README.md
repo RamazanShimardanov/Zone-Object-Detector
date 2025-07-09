@@ -1,6 +1,6 @@
 # Система зональной видео детекции с YOLOv5
 
-![Demo Screenshot](Screenshot_2.png)
+![Demo Screenshot](Screenshot_1.png)
 
 ## Возможности работы с видео и кадрами
 
