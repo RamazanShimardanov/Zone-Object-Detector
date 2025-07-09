@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-##Поддерживаемые модели YOLO
+## Поддерживаемые модели YOLO
   -YOLOv5s (по умолчанию)
   -YOLOv5m
   -YOLOv5l
