@@ -45,9 +45,9 @@ pip install -r requirements.txt
 python main.py
 ```
 ## Поддерживаемые модели YOLO
-  -YOLOv5s (по умолчанию)
-  -YOLOv5m
-  -YOLOv5l
-  -YOLOv5x
+  - YOLOv5s (по умолчанию)
+  - YOLOv5m
+  - YOLOv5l
+  - YOLOv5x
 Для использования других моделей замените строку загрузки модели в коде.
 
