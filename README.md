@@ -1,6 +1,6 @@
 # Система видеонаналитики с YOLOv5
 
-![Demo Screenshot](demo.png)
+![Demo Screenshot](screenshot_2.png)
 
 ## Возможности работы с видео и кадрами
 
